@@ -1,3 +1,0 @@
-/Users/cherubim/sideprojects/blackhole/build/CMakeFiles/blackhole.dir
-/Users/cherubim/sideprojects/blackhole/build/CMakeFiles/edit_cache.dir
-/Users/cherubim/sideprojects/blackhole/build/CMakeFiles/rebuild_cache.dir
